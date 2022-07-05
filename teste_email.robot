@@ -2,8 +2,7 @@
 Suite Setup    Open Browser    https://www.google.com.br/    Chrome
 Library    Enviar Gmail.py
 Library    SeleniumLibrary
-Library    FakerLibrary
-Library    openpyxl
+
 
 
 *** Test Cases ***  
